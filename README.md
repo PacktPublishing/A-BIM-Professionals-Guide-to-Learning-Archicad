@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/a-bim-professionals-guide-to-learning-archicad/9781803246574"><img src="https://content.packt.com/B18326/cover_image_small.jpg" alt="A BIM Professional’s Guide to Learning Archicad" height="256px" align="right"></a>
 
-This is the code repository for [Animating SwiftUI Applications ](https://www.packtpub.com/product/a-bim-professionals-guide-to-learning-archicad/9781803246574), published by Packt.
+This is the code repository for [A BIM Professional’s Guide to Learning Archicad ](https://www.packtpub.com/product/a-bim-professionals-guide-to-learning-archicad/9781803246574), published by Packt.
 
 **Boost your design workflow by efficiently visualizing, documenting, and delivering BIM projects**
 
